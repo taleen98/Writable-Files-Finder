@@ -1,6 +1,9 @@
 # Writable-Files-Finder
 
 
-[ Installation ]
+[ Installation && Usage ]
 
 └─# git clone 
+└─# cd .\Writable-Files-Finder
+└─#  chmod +x script.sh
+└─#  ./script.sh
